@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Juan de Haro
 💼 Former Data Scientist @Santander Bank  
 🎓 Double Master's in: Applied Data Science @UChicago | Industrial Engineering @UPM  
-💡 Data Science | Operations Research | Supply Chain | Energy Forecasting  
+💡 Industrial AI | Data Science | Operations Research | Supply Chain | Energy Forecasting  
 📍 Based in Chicago & Madrid  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat&logoColor=white)](https://www.linkedin.com/in/juan-de-haro/) 
